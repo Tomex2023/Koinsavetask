@@ -7,8 +7,8 @@ Features
  Responsive design for mobile, tablet, and desktop
 Dashboard screen with user information
 
-Tech Stack
-React Native Expo
+Tech Stack:
+React Native Expo,
 Firebase Authentication
 
 Setup Instructions
